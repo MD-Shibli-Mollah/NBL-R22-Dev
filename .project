@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>NBLR22</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.temenos.tafj.builder.TAFJBasicBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.temenos.tafj.builder.TAFJBasicNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>basic</name>
+			<type>2</type>
+			<location>D:/Temenos/R18/Env/Slot01/Products/TAFJ/TAFJ/samples/basic</location>
+		</link>
+	</linkedResources>
+</projectDescription>
